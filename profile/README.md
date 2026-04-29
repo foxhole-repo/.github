@@ -1,3 +1,5 @@
+## Development roadmap
+
 We are currently actively working on a custom TCP / HTTP-based transport layer designed to make protocol behavior closer to regular application traffic.
 The goal is to improve connection stability in restricted networks where simple censorship systems block or degrade known VPN protocols.
 Planned work:
