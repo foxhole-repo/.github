@@ -10,3 +10,7 @@ Planned work:
 * Do not use telemetry, external scoring services, or centralized traffic analysis
 * Build reproducible tests against simulated censorship and poor network conditions.
 
+## Disclaimer
+
+> Android application development is not our primary focus.
+> Our core focus is in backend systems, security, machine learning, and cryptography.
